@@ -1,0 +1,257 @@
+Conversation=[
+USER: "Hey","hai","hi","hola","hlo"
+
+AI: "Please select one of these options to more know about them."
+1-VIT Andhra Pradesh
+2-VIT Bangalore
+3-VIT Bhopal
+4-VIT Chennai
+5-VIT Vellore
+
+"The user responds on clicking one of the options provided by the bot"
+
+"1"
+Welcome to VIT Andhra Pradesh!!!
+Which one of these are you?
+1-VITian
+2-Academic Staff
+3-Parent
+4-Visitor
+
+"The user responds by clicking one of the options provided by the bot" 
+
+"1.1","1.2","1.3"
+Please click on this link to continue:
+https://vtop2.vitap.ac.in/vtop/initialProcess
+Thank you for using the VITbot.
+
+"1.4"
+What do you want to know about Andhra Pradesh campus?
+1-About us
+2-Academics
+3-Admissions
+4-Career development centre
+5-Campus life
+
+"The user responds by clicking one of the options provided by the bot"
+
+"1.4.1"
+To know more about us, Please click on this link to continue:
+https://vitap.ac.in/about/overview/
+Thank you for using the VITbot.
+
+"1.4.2"
+To know more about the academics, Please click on this link to continue:
+https://vitap.ac.in/academics/overview
+Thank you for using the VITbot.
+
+"1.4.3"
+To know more about the admissions, Please click on this link to continue:
+https://vitap.ac.in/admission/overview/
+Thank you for using the VITbot.
+
+"1.4.4"
+To know more about the career development centre, Please click on this link to continue: 
+https://vitap.ac.in/placement/career-development-centre/
+Thank you for using the VITbot.
+
+"1.4.5"
+To know more about the campus life in the VIT Andhra Pradesh, Please click on this link to continue:
+https://vitap.ac.in/campus-life/overview/
+Thank you for using the VITbot.
+
+
+"2"
+Welcome to VIT Bangalore!!!
+Which one of these are you?
+1-VITian
+2-Academic Staff
+3-Parent
+4-Visitor
+
+"The user responds by clicking one of the options provided by the bot"
+
+"2.1","2.2","2.3",
+Please kindly wait till you get the details to your registered mail.
+
+"2.4"
+What do you want to know about Bangalore campus?
+1-About us
+2-International Centre for Education and Research
+3-Eligibility/selection criteria
+
+"The user responds by clicking one of the options provided by the bot"
+
+"2.4.1"
+To know more about us, Please click on this link to continue: 
+https://vitbangalore.in/about/
+Thank you for using the VITbot.
+
+"2.4.2"
+To know more about the International Centre for Education and Research, Please click on this link to continue:
+https://vitbangalore.in/icer/
+Thank you for using the VITbot.
+
+"2.4.3"
+To know more about the eligibility and selection criteria, Please click on this link to continue: 
+https://vitbangalore.in/eligibility-selection-criteria/
+Thank you for using the VITbot.
+
+"3"
+Welcome to VIT Bhopal!!!
+Which one of these are you?
+1-VITian
+2-Academic Staff
+3-Parent
+4-Visitor
+
+"The user responds by clicking one of the options provided by the bot"
+
+"3.1","3.2","3.3"
+Please click on this link to login and continue: 
+https://vtop.vitbhopal.ac.in/vtop/initialProcess
+Thank you for using the VITbot.
+
+"3.4"
+What do you want to know about Bhopal campus?
+1-About us
+2-Academics
+3-Admissions
+4-Placements
+5-Campus life
+
+"The user responds by clicking one of the options provided by the bot"
+
+"3.4.1"
+To know more about us, Please click on this link to continue:
+https://vitbhopal.ac.in/vit-bhopal/
+Thank you for using the VITbot.
+
+"3.4.2" 
+To know more about the academics, Please click on this link to continue:
+https://vitbhopal.ac.in/schools-best-engineering-institute/
+Thank you for using the VITbot.
+
+"3.4.3"
+To know more about the admissions, Please click on this link to continue: 
+https://admission.vitbhopal.ac.in/#
+Thank you for using the VITbot.
+
+"3.4.4"
+To know more about the placements in VIT Bhopal, Please click on this link to continue:
+https://vitbhopal.ac.in/placements-and-training/
+Thank you for using the VITbot.
+
+"3.4.5"
+To know more about the campus life in the VIT Bhopal, Please click on this link to continue: 
+https://vitbhopal.ac.in/stars-scheme/
+Thank you for using the VITbot.
+
+"4"
+Welcome to VIT Chennai!!!
+Which one of these are you?
+1-VITian
+2-Academic Staff
+3-Parent
+4-Visitor
+
+"The user responds by clicking one of the options provided by the bot"
+
+"4.1","4.2","4.3"
+Please click on this link to login and continue: 
+https://vtopcc.vit.ac.in/vtop/open/page
+Thank you for using the VITbot.
+
+"4.4"
+What do you want to know about Chennai campus?
+1-About us
+2-Academics
+3-Admissions
+4-Career development centre
+5-Campus life
+
+"The user responds by clicking one of the options provided by the bot"
+
+"4.4.1"
+To know more about us, Please click on this link to continue: 
+https://chennai.vit.ac.in/about/
+Thank you for using the VITbot.
+
+"4.4.2"
+To know more about the academics, Please click on this link to continue: 
+https://chennai.vit.ac.in/academics/
+Thank you for using the VITbot.
+
+"4.4.3"
+To know more about the admissions, Please click on this link to continue: 
+https://chennai.vit.ac.in/admissions/
+Thank you for using the VITbot.
+
+"4.4.4"
+To know more about the career development centre, Please click on this link to continue: 
+https://chennai.vit.ac.in/placements/
+Thank you for using the VITbot.
+
+"4.4.5"
+To know more about the campus life in the VIT Chennai, Please click on this link to continue: 
+https://chennai.vit.ac.in/campus/
+Thank you for using the VITbot.
+
+"5"
+Welcome to VIT Vellore!!!
+Which one of these are you?
+1-VITian
+2-Academic Staff
+3-Parent
+4-Visitor
+
+"The user responds by clicking one of the options provided by the bot"
+
+"5.1","5.2","5.3"
+Please click on this link to login and continue: 
+https://vtop.vit.ac.in/vtop/open/page
+Thank you for using the VITbot.
+
+"5.4"
+What do you want to know about Vellore campus?
+1-About us
+2-Academics
+3-Admissions
+4-Career development centre
+5-Campus life
+
+"The user responds by clicking one of the options provided by the bot"
+
+"5.4.1"
+To know more about us, Please click on this link to continue: 
+https://vit.ac.in/about-vit
+Thank you for using the VITbot.
+
+"5.4.2"
+To know more about the academics, Please click on this link to continue: 
+https://vit.ac.in/academics/home
+Thank you for using the VITbot.
+
+"5.4.3"
+To know more about the admissions, Please click on this link to continue: 
+https://vit.ac.in/admissions/overview
+Thank you for using the VITbot.
+
+"5.4.4"
+To know more about the career development centre, Please click on this link to continue: 
+https://vit.ac.in/cdc-overview
+Thank you for using the VITbot.
+
+"5.4.5"
+To know more about the campus life in the VIT Vellore, Please click on this link to continue: 
+https://vit.ac.in/campuslife/overview
+Thank you for using the VITbot.
+
+
+
+
+
+
+
+
+
